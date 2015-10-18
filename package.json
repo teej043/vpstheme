@@ -1,0 +1,17 @@
+{
+  "name": "vpstheme",
+  "version": "1.0.0",
+  "description": "VPS Theme by Teej, the base is powered by Titan Framework for better theme customizer and options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teej",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-prettify": "^0.3.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}

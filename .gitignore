@@ -1,0 +1,14 @@
+.DS_Store
+profile
+.sass-cache
+npm-debug.log
+node_modules
+bower_components
+twentyfifteen
+stats
+index.php
+*.bak
+veepeeyes/style.css
+veepeeyes/js/pkgd**.min.js
+veepeeyes/fonts/icons
+veepeeyes/sass/utils/_sprite.scss
