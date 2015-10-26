@@ -5,8 +5,12 @@ npm-debug.log
 node_modules
 bower_components
 twentyfifteen
+revera
+hueman
+aron
 stats
 index.php
+!veepeeyes/index.php
 *.bak
 veepeeyes/style.css
 veepeeyes/js/pkgd**.min.js
